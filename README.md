@@ -9,7 +9,9 @@ dnszone
 
 It is simple tool that dectects zone transfer vulnerability.
 
-** It only works with python3 **
+###### It only works with python3
+
+~~It won't work with python2 or less.~~
 
 
 
