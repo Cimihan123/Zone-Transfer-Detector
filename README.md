@@ -1,12 +1,12 @@
 # Requirements
 
-dnszone
+dnszone\n
 dnspython3
 
 
 
 
-![alt text](https://github.com/Cimihan123/private/tree/master/images/carbon.jpg)
+![image](https://github.com/Cimihan123/private/tree/master/images/carbon.jpg)
 
 
 
