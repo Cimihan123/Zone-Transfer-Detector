@@ -1,12 +1,14 @@
 # Requirements
 
-dnszone\n
+dnszone
+
 dnspython3
 
 
 
 
-![image](https://github.com/Cimihan123/private/tree/master/images/carbon.jpg)
+![carbon](https://user-images.githubusercontent.com/47425314/90661429-e97c4b00-e266-11ea-9feb-7641b8f743f8.png)
+
 
 
 
