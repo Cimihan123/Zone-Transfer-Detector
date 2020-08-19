@@ -1,8 +1,8 @@
 # Requirements
 
-dnszone
+1.dnszone
 
-dnspython3
+2.dnspython3
 
 
 
@@ -16,7 +16,7 @@ dnspython3
 
 It is simple tool that dectects zone transfer vulnerability.
 
-###### It only works with python3
+###### It only works with python3.
 
 ~~It won't work with python2 or less.~~
 
