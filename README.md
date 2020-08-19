@@ -19,7 +19,8 @@ It is simple tool that dectects zone transfer vulnerability.
 
 ``` python3 detect.py -t/--target zonetransfer.me ```
 
-2.Wordlist
+
+2.Multiple Domain Wordlist
 
 
 ``` python3 detect.py -w/--wordlist <file-name>```
