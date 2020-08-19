@@ -1,7 +1,10 @@
 # Requirements
 
-dnspython3 
 dnszone
+dnspython3
+
+
+
 
 
 
