@@ -33,6 +33,12 @@ def DnsResolve(urls):
             print(f"[{minus}] %s No NameServer Found for {yellow}{target}{end}"%(red))   
         except KeyError:
             print(f"[{minus}] %s No NameServer Found for {yellow}{target}{end}"%(red)) 
+        except dns.name.EmptyLabel:
+            print(f"[{minus}] %s No NameServer Found for {yellow}{target}{end}"%(red)) 
+      
+        except dns.resolver.NXDOMAIN:
+            print(f"[{minus}] %s No NameServer Found for {yellow}{target}{end}"%(red)) 
+      
         
 
 def zoneXFR(target):
