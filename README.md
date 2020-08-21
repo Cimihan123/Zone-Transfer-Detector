@@ -4,6 +4,7 @@
 
 2.dnspython3
 
+3.pydig
 
 
 
