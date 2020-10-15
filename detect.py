@@ -42,7 +42,7 @@ def DnsResolve(urls):
 
 
 
-#remove deuplicate from files
+#remove duplicate from files
 lines = set()
 outfile = open('ns.txt', "w")
 for line in open('ns.txt', "r"):
